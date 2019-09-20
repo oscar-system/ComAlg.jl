@@ -1,4 +1,4 @@
-module Oscar
+module ComAlg
 
 
 # To make all exported Nemo/Heck functions visible to someone using "using Hecke"
@@ -26,10 +26,10 @@ for i in names(Singular)  # includes Nemo (and AbstractAlgebra??)
 end
 
 
-println("Welcome to OSCAR")
+println("Welcome to ComAlg")
 println(" ... version 0.0.2")
 println(" ... there is absolutely no warranty...")
-println("(c) 2018 by Bill Hart, Claus Fieker, Andreas Steenpass")
+println("(c) 2018 by Claus Fieker, Andreas Steenpass")
 
 # include("ComAlg.jl")
 
