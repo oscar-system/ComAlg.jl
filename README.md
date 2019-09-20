@@ -1,3 +1,3 @@
-# Oscar
+# ComAlg.jl
 
-This is the future Julia component of the Oscar project. At the moment it serves only to bring together some other Julia packages we have been developing.
+A first attempt at a commutative algebra package for Oscar. Now defunct, but archived here.
