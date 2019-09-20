@@ -1,5 +1,4 @@
-using Oscar
-using Base.Test
+using ComAlg
 
 include("ComAlg-test.jl")
 
